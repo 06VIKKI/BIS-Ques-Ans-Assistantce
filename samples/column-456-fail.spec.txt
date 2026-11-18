@@ -1,0 +1,13 @@
+# BIS-Assist specification file: RC column detailing (Non-compliant column)
+module: column-456
+shape: rectangular
+b: 300
+D: 300
+length: 19000
+fck: 20
+exposure: severe
+cover: 25
+bars: 3
+barDia: 10
+tieDia: 5
+tieSpacing: 350

@@ -1,0 +1,11 @@
+# BIS-Assist specification file: Rebar test report (Non-conforming Fe 500D sample)
+module: rebar-1786
+grade: Fe 500D
+dia: 16
+ys: 492
+uts: 530
+elongation: 11.2
+mass: 1.49
+carbon: 0.27
+sulphur: 0.052
+phosphorus: 0.047

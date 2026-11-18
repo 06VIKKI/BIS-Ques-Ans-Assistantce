@@ -1,0 +1,16 @@
+# BIS-Assist specification file: RC beam detailing (Compliant beam)
+module: beam-456
+b: 300
+D: 550
+d: 500
+span: 6
+support: simple
+fck: 25
+fy: 500
+exposure: moderate
+cover: 30
+barDia: 20
+ast: 1257
+stirrupDia: 8
+legs: 2
+stirrupSpacing: 200

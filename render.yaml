@@ -1,0 +1,11 @@
+# One-click deploy on Render.com (free web service tier works)
+services:
+  - type: web
+    name: bis-assist
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production

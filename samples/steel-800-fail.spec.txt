@@ -1,0 +1,20 @@
+# BIS-Assist specification file: Steel member and connection (Non-compliant steel member)
+module: steel-800
+fy: 250
+memberType: comp-dl-ll
+kl: 6500
+r: 22
+bTf: 15
+dTw: 90
+deflCase: simple-elastic
+spanMm: 6000
+deflection: 34
+boltDia: 20
+pitch: 40
+edge: 28
+plateT: 10
+edgeType: sheared
+weldSize: 3
+thicker: 14
+thinner: 10
+weldLength: 10

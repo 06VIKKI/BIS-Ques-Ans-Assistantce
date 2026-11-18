@@ -1,0 +1,16 @@
+# BIS-Assist specification file: Toy safety (Non-compliant toy)
+module: toy-9873
+age: under18
+smallParts: yes
+cord: 340
+edgesOk: no
+pointsOk: yes
+warning: no
+antimony: 4
+arsenic: 3
+barium: 140
+cadmium: 40
+chromium: 85
+lead: 210
+mercury: 2
+selenium: 20

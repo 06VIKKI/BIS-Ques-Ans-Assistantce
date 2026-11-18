@@ -1,0 +1,18 @@
+{
+  "module": "beam-456",
+  "values": {
+    "width": 250,
+    "overall depth": 500,
+    "effective depth": 455,
+    "span": 5,
+    "concrete grade": "25",
+    "steel grade": "500",
+    "exposure": "moderate",
+    "cover": 30,
+    "main bar diameter": 16,
+    "ast": 804,
+    "stirrup diameter": 8,
+    "legs": 2,
+    "stirrup spacing": 150
+  }
+}
